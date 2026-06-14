@@ -100,7 +100,7 @@ export QT_QPA_PLATFORM=xcb
 
 ## 📄 Лицензия
 
-MIT
+## GNU General Public License v3.0 ##
 
 ## 👨‍💻 Автор
 
