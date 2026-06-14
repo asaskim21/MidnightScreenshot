@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Тестовый режим (3 сек вместо полночи)
 
 ```bash
-python ZeroShot.py
+python MidnightScreenshot.py
 ```
 
 1. Нажмите на **левый верхний угол** нужной области
@@ -41,7 +41,7 @@ python ZeroShot.py
 
 ### Боевой режим (полночь)
 
-Отредактируйте в `ZeroShot.py`:
+Отредактируйте в `MidnightScreenshot.py`:
 ```python
 TEST_MODE = False  # Вместо True
 ```
@@ -95,7 +95,7 @@ export QT_QPA_PLATFORM=xcb
 - На Linux попробуйте X11 вместо Wayland
 
 ### Скрипт не запускается автоматически
-- Проверьте права доступа: `chmod +x ZeroShot.py`
+- Проверьте права доступа: `chmod +x MidnightScreenshot.py`
 - Убедитесь, что Python находится в PATH
 
 ## 📄 Лицензия
@@ -104,4 +104,4 @@ MIT
 
 ## 👨‍💻 Автор
 
-dead-kali
+asaskim21
