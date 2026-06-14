@@ -68,10 +68,9 @@ x2,y2
 
 ```
 MidnightScreenshot/
-├── ZeroShot.py           # Основной скрипт
+├── MidnightScreenshot.py           # Основной скрипт
 ├── requirements.txt      # Зависимости Python
 ├── config.txt           # Координаты (создается автоматически)
-├── PHOTOS/              # Папка со скриншотами
 └── README.md            # Этот файл
 ```
 
